@@ -21,7 +21,7 @@ Gerenciador de tarefa pessoal,onde colocamos nossas próximas tarefas,tem como e
 
 ## Ferramentas e tecnolgoias utilizadas
 
-- ``Java 13 como linguagem de programação no back-end``
+- ``Java 8 como linguagem de programação no back-end``
 - ``Spring Boot como Framework na construção da aplicação``
 - ``Arquitetura JWT na segurança da aplicação``
 - ``React e Bootstrap no front-end``
