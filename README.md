@@ -9,24 +9,18 @@ Gerenciador de tarefa pessoal,onde colocamos nossas próximas tarefas,tem como e
 
 
 ## Funcionalidades
- `Funcionalidade 1:` Realizar login.
- 
- `Funcionalidade 2:` Acessar suas tarefas já salvas.
-
-`Funcionalidade 3:` Editar informações de suas tarefas e tambem excluir.
-
- `Funcionalidade 4:` Adicionar novas tarefas.
-
+ `Funcionalidade 1:` Cadastrar tarefa.
+ `Funcionalidade 2:` Editar e excluir.
+ `Funcionalidade 3:` Marca tarefa como já salva.
 
 
 ## Ferramentas e tecnolgoias utilizadas
 
 - ``Java 13 como linguagem de programação no back-end``
-- ``Spring Boot como Framework na construção da aplicação``
+- ``Spring Boot como Framework na construção do web service``
 - ``Arquitetura JWT na segurança da aplicação``
-- ``React e Bootstrap no front-end``
+- ``React como liguagem  no front-end``
 - ``Eclipse e VSCODE como IDE``
 - ``Postman para web service``
-- ``H2 Database Engine como banco de dados``
-- ``Heroku para executar o deploy da aplicação``
+- ``H2 como banco de dados``
 ###
