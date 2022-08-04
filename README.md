@@ -24,6 +24,5 @@ Gerenciador de tarefa pessoal,onde colocamos nossas próximas tarefas,tem como e
 - ``Arquitetura JWT na segurança da aplicação``
 - ``React como liguagem  no front-end``
 - ``Eclipse e VSCODE como IDE``
-- ``Postman para web service``
 - ``H2 como banco de dados``
 ###
