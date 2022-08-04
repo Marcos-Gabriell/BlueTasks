@@ -10,8 +10,11 @@ Gerenciador de tarefa pessoal,onde colocamos nossas próximas tarefas,tem como e
 
 ## Funcionalidades
  `Funcionalidade 1:` Cadastrar tarefa.
+ <br>
  `Funcionalidade 2:` Editar e excluir.
+  <br>
  `Funcionalidade 3:` Marca tarefa como já salva.
+  <br>
 
 
 ## Ferramentas e tecnolgoias utilizadas
