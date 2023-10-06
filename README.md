@@ -47,6 +47,3 @@ Para executar o projeto, siga estas etapas:
 
 Após seguir essas etapas, você poderá acessar o aplicativo em seu navegador.
 
-Aproveite o gerenciador de tarefas!
-
-
