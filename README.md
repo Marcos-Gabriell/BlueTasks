@@ -49,4 +49,4 @@ Após seguir essas etapas, você poderá acessar o aplicativo em seu navegador.
 
 Aproveite o gerenciador de tarefas!
 
-**Nota:** Lembre-se de substituir 'link_para_screenshot.png' pelo link real para uma captura de tela do seu aplicativo, se desejar adicionar uma captura de tela ao README.md.
+
