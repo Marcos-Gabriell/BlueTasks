@@ -8,7 +8,7 @@ Este é um gerenciador de tarefas pessoais que permite listar suas próximas tar
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
 - **Java Development Kit (JDK)** 8 ou superior
-- Node.js e npm
+- Node.js 
 - Uma **IDE Java** (por exemplo, IntelliJ IDEA ou Eclipse)
 
 ## Funcionalidades
