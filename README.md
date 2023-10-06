@@ -27,7 +27,7 @@ Este gerenciador de tarefas oferece as seguintes funcionalidades:
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas e tecnologias:
 
-- **Java 13**: Linguagem de programação no backend.
+- **Java 11**: Linguagem de programação no backend.
 - **Spring Boot**: Framework para a construção do web service.
 - **JWT**: Utilizado para segurança da aplicação.
 - **React**: Utilizado para o desenvolvimento do frontend.
