@@ -41,7 +41,7 @@ Para executar o projeto, siga estas etapas:
 
 1. Clone este repositório.
 2. Abra o projeto em sua IDE Java (Eclipse, IntelliJ, etc.).
-3. Execute a aplicação backend.
+3. Execute a aplicação backend no método main.
 4. Navegue até o diretório do frontend no terminal.
 5. Execute `npm install` para instalar as dependências do frontend.
 6. Execute `npm start` para iniciar o servidor de desenvolvimento do React.
