@@ -10,7 +10,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 - **Java Development Kit (JDK)** 8 ou superior
 - Node.js 
 - Uma **IDE Java** (por exemplo, IntelliJ IDEA ou Eclipse)
-- - Uma **IDE Para React** (por exemplo, IntelliJ IDEA ou Eclipse)
+- - Uma **IDE Para React** (por exemplo, VsCode)
 
 ## Funcionalidades
 
