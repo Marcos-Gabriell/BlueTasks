@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas com Spring e React
+# CRUD - Gerenciador de Tarefas com Spring e React
 
 
 Este é um gerenciador de tarefas pessoais que permite listar suas próximas tarefas, editar informações e marcar tarefas como concluídas para removê-las da lista.
