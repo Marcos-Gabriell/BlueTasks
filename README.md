@@ -46,4 +46,3 @@ Para executar o projeto, siga estas etapas:
 6. Execute `npm start` para iniciar o servidor de desenvolvimento do React.
 
 Após seguir essas etapas, você poderá acessar o aplicativo em seu navegador.
-
